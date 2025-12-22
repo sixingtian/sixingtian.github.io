@@ -33,8 +33,3 @@ My interests center on estimating **heterogeneous treatment effects** and design
 - **Econometrics**: regression, IV, panel methods, program evaluation; identification & robustness checks
 - **Machine learning**: tree-based models, regularization, cross-fitting, model selection, predictive evaluation
 - **Tools**: Python (pandas, numpy, scikit-learn), R (tidyverse, fixest, causal packages), LaTeX, Git/GitHub
-
-## Contact
-
-If you are looking for an **RA / pre-doc collaborator** in causal inference + ML, feel free to reach out:  
-**sixingtian@gmail.com**
