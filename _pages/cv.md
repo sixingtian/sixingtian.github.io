@@ -1,64 +1,39 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+[Download PDF](/files/CV_Xingtian_Si.pdf)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+- **University of Nottingham Ningbo China** — BSc Economics (Top 5%)  
+  *Expected/Graduated:* YYYY–YYYY
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research Interests
+- Causal inference; causal ML (DML/TMLE/causal forests)
+- Heterogeneous treatment effects; targeting & policy evaluation
+- Marketing analytics; personalization
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Publications
+- Si, X. (2025). *Estimating heterogeneous treatment effects of early childhood education programs using ECLS-K: 2011.* **International Journal of Intelligence Science**, 15, 145–161.
+- Si, X.; Lin, K.; Yang, X.; Wen, Z. (2025). *Board gender diversity and firm performance: firm size moderation (2008–2016).* **Entrepreneurship and Innovation**.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Experience
+- **Research Assistant** — [Lab/Advisor], [Institution], [Dates]  
+  - [Bullet 1]  
+  - [Bullet 2]
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Internships
+- **Shenzhen Venture Capital (深创投)** — [Role], [Dates]  
+  - [Bullet 1]  
+  - [Bullet 2]
+
+## Skills
+- **Econometrics:** regression, IV, panel; program evaluation
+- **Causal ML:** DML, TMLE, causal forests; cross-fitting
+- **Programming:** Python, R, LaTeX, Git
+
+## Contact
+- Email: sixingtian@gmail.com
+- GitHub: https://github.com/xingtiansi
