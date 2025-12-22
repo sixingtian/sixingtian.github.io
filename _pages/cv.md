@@ -4,7 +4,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download PDF](/files/Xingtian Si.pdf)
 
 **Xingtian (James) Si**  
 Email: sixingtian@gmail.com | Mobile: +86 17757505168  
@@ -24,17 +23,6 @@ Awards: Provost’s Scholarship for Academic Excellence (Top 5%), UNNC (2023–2
 
 **University of Nottingham** (Sep 2024 – Jan 2025)  
 BSc Economics (Exchange Program) | GPA: 4.0/4.0
-
----
-
-## Research Experience
-
-**Dissertation: Causal ML and Counterfactual Inference in Consumer Behavior** (Sep 2025 – Present)  
-
-**Research Assistant: Early Childhood Intervention Effects (ECLS-K:2011)** (Mar 2025 – Sep 2025)  
-
-**Empirical Project: Board Gender Diversity and Firm Performance** (Nov 2024 – Jun 2025)  
-
 
 ---
 
