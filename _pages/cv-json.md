@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (Formatted)"
 permalink: /cv-json/
 author_profile: false
 redirect_from:
@@ -11,7 +11,11 @@ redirect_from:
 
 {% include cv-template.html %}
 
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
+<div class="cv-download-links" style="margin-top: 1rem;">
+  <a href="/files/Xingtian Si.pdf" class="btn btn--primary" target="_blank" rel="noopener">
+    View / Download CV (PDF)
+  </a>
+  <a href="/cv/" class="btn btn--inverse">
+    View Markdown CV
+  </a>
 </div>
