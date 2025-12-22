@@ -4,6 +4,8 @@ permalink: /cv/
 author_profile: true
 ---
 
+[Download PDF](/files/Xingtian Si.pdf)
+
 **Xingtian (James) Si**  
 Email: sixingtian@gmail.com | Mobile: +86 17757505168  
 Location: Zhejiang, China (open to relocate)
