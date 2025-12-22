@@ -3,7 +3,7 @@ title: "Estimating Heterogeneous Treatment Effects of Early Childhood Education 
 collection: publications
 permalink: /publication/2025-ijis-eclsk-hte
 excerpt: "Causal ML (heterogeneous treatment effects) using ECLS-K:2011."
-date: 2025-01-01
+date: 2025-09-03
 venue: "International Journal of Intelligence Science"
 paperurl: ""   # 你如果有论文链接就填；没有就留空
 citation: "Si, X. (2025). Estimating heterogeneous treatment effects of early childhood education programs using ECLS-K: 2011. <i>International Journal of Intelligence Science</i>, 15, 145–161."
