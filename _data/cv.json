@@ -1,152 +1,156 @@
 {
   "basics": {
-    "name": "Xingtian Si",
-    "email": "sixingtian@gmail.com",
-    "phone": "+86 17757505168",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Xingtian (James) Si",
+    "email": "xingtian@uchicago.edu",
+    "phone": "+1 (872) 378-6686",
+    "website": "https://xingtiansi.github.io",
+    "summary": "M.A. Economics student at the University of Chicago. Researcher in causal inference and causal machine learning, with a focus on consumer behavior, targeting, and policy evaluation.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Chicago, IL",
       "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "xingtiansi",
+        "url": "https://github.com/xingtiansi"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "organization": "University of California, San Diego (RA for Prof. Sally Sadoff)",
+      "position": "Research Assistant — Correspondence Audit Studies on Labor Market Discrimination",
+      "startDate": "2026-05",
+      "endDate": "Present",
+      "highlights": [
+        "Processed participant-level data from 10,000+ respondents (44,000+ observations) across 8 name-perception studies using Python.",
+        "Constructed a structured 53-sheet database tracing the provenance of 600+ fictitious names across 22 correspondence audit studies."
+      ]
+    },
+    {
+      "organization": "University of Nottingham Ningbo China",
+      "position": "Independent Research — When Click-to-Cancel Creates Complexity: A Theory of Subscription Regulation",
+      "startDate": "2026-03",
+      "endDate": "Present",
+      "highlights": [
+        "Developed a partial-equilibrium model of joint cancellation-friction and retention-menu complexity choice; proved a waterbed effect under California's AB 2863.",
+        "Derived the welfare condition under which click-to-cancel regulation benefits consumers."
+      ]
+    },
+    {
+      "organization": "University of Nottingham Ningbo China",
+      "position": "Undergraduate Dissertation — Causal Machine Learning and Counterfactual Inference in Consumer Behavior",
+      "startDate": "2025-09",
+      "endDate": "2026-04",
+      "highlights": [
+        "Applied causal random forests, TMLE, and BART in R and Python to estimate average and heterogeneous treatment effects of coupon and advertising interventions.",
+        "Designed a personalized coupon allocation framework with R Shiny dashboards under budget constraints."
+      ]
+    },
+    {
+      "organization": "Columbia University (RA for Dr. Jiaxi Yang)",
+      "position": "Research Assistant — HTE of Early Childhood Interventions on Fifth-Grade Math Achievement",
+      "startDate": "2025-03",
+      "endDate": "2025-09",
+      "highlights": [
+        "Extracted and merged longitudinal ECLS-K:2011 data (n ≈ 18,000) with sample weights and multiple imputation (MICE).",
+        "Trained causal random forests (R grf), identifying an approximately 0.15 SD improvement among high-risk children."
+      ]
+    },
+    {
+      "organization": "University of Nottingham (RA for Prof. Abigail Barr)",
+      "position": "Research Assistant — Board Gender Diversity and Firm Performance in the UK",
+      "startDate": "2024-11",
+      "endDate": "2025-06",
+      "highlights": [
+        "Estimated linear and nonlinear panel models on 840 firm-year observations (2008–2016) using Stata.",
+        "Identified an inverted-U relationship between female director share and Tobin's Q, moderated by firm size; published in Entrepreneurship and Innovation."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Chicago",
+      "area": "Economics",
+      "studyType": "M.A.",
+      "startDate": "2026-09",
+      "endDate": "2027-06",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "institution": "University of Nottingham Ningbo China",
+      "area": "Economics (dual degree with the University of Nottingham, UK); First-Class Honours; Rank: Top 5%",
+      "studyType": "B.Sc.",
+      "startDate": "2022-09",
+      "endDate": "2026-07",
+      "gpa": "3.90/4.0",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "University of Nottingham, UK",
+      "area": "Economics",
+      "studyType": "B.Sc.",
+      "startDate": "2024-09",
+      "endDate": "2025-01",
+      "gpa": "4.0/4.0",
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python (pandas, numpy, scikit-learn)", "R (tidyverse, grf, tmle)", "Stata", "SQL", "MATLAB", "LaTeX"]
+    },
+    {
+      "name": "Methods",
+      "keywords": ["Causal machine learning (CRF, TMLE, BART)", "Panel data", "Time series", "Dashboarding (R Shiny, Python Dash)"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
+  "awards": [
+    { "title": "Provost's Scholarship for Academic Excellence (Top 5%), UNNC", "date": "2025" },
+    { "title": "Zhejiang Provincial Scholarship", "date": "2025-10" },
+    { "title": "UNNC Award for Outstanding Students (UG)", "date": "2026-05" },
+    { "title": "Zhejiang Excellent Graduate", "date": "2026-05" }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Causal Effects of Coupon Expiration on Consumer Acceptance: Evidence from Conditional Heterogeneous Treatment Effects",
+      "publisher": "Submitted to Applied Economics",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Si, X. (2026)."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Estimating Heterogeneous Treatment Effects of Early Childhood Interventions on Fifth-Grade Math Achievement: A Machine Learning-Augmented Causal Analysis of ECLS-K:2011",
+      "publisher": "International Journal of Intelligence Science, 15, 145–161",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Si, X. (2025)."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Board Gender Diversity on Firm Performance in the UK: Evidence of Non-linear Returns and Firm Size Moderation (2008–2016)",
+      "publisher": "Entrepreneurship and Innovation, 9(4), 141–145",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Si, X., Lin, K., Yang, X., & Wen, Z. (2025)."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "When Click-to-Cancel Creates Complexity: A Theory of Subscription Regulation",
+      "publisher": "Working Paper",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Si, X., Fang, C., Xie, W."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
