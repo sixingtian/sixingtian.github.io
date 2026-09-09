@@ -66,7 +66,7 @@ Research Assistant, supervised by Prof. Abigail Barr (University of Nottingham)
 ## Publications
 - Si, X. (2026). *Causal Effects of Coupon Expiration on Consumer Acceptance: Evidence from Conditional Heterogeneous Treatment Effects.* Submitted to **Applied Economics**.
 - Si, X. (2025). *Estimating Heterogeneous Treatment Effects of Early Childhood Interventions on Fifth-Grade Math Achievement: A Machine Learning-Augmented Causal Analysis of ECLS-K:2011.* **International Journal of Intelligence Science**, 15, 145–161.
-- Si, X., Lin, K., Yang, X., & Wen, Z. (2025). *Board Gender Diversity on Firm Performance in the UK: Evidence of Non-linear Returns and Firm Size Moderation (2008–2016).* **Entrepreneurship and Innovation**, 9(4), 141–145.
+- Si, X., Lin, K., Yang, X., & Wen, Z. (2025). *Board Gender Diversity on Firm Performance in the UK: Evidence of Non-linear Returns and Firm Size Moderation (2008–2016).* **Entrepreneurship and Innovation**, 9(4), 142–147.
 - Si, X., Fang, C., Xie, W. *When Click-to-Cancel Creates Complexity: A Theory of Subscription Regulation.* Working Paper.
 
 ---
