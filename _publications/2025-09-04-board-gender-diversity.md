@@ -1,6 +1,7 @@
 ---
 title: "Board Gender Diversity on Firm Performance in the UK: Evidence of Non-linear Returns and Firm Size Moderation (2008–2016)"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-entrepreneurship-innovation-board-gender
 excerpt: "Panel regression evidence of an inverted-U relationship between female director share and Tobin's Q (threshold around 20–25%), moderated by firm size."
 date: 2025-09-04

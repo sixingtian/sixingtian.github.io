@@ -22,59 +22,73 @@
   },
   "work": [
     {
-      "organization": "University of California, San Diego (RA for Prof. Sally Sadoff)",
+      "organization": "UC San Diego, Rady School of Management (RA for Prof. Sally Sadoff)",
       "position": "Research Assistant — Correspondence Audit Studies on Labor Market Discrimination",
       "startDate": "2026-05",
       "endDate": "Present",
       "highlights": [
-        "Processed participant-level data from 10,000+ respondents (44,000+ observations) across 8 name-perception studies using Python.",
-        "Constructed a structured 53-sheet database tracing the provenance of 600+ fictitious names across 22 correspondence audit studies."
+        "Systematically reviewed 22 correspondence audit studies; constructed and audited a 53-sheet database of 600+ fictitious names.",
+        "Harmonized eight name-perception studies into a dataset of 1,600+ names and 25 variables.",
+        "Processed data from 10,000+ respondents and 44,000+ observations in Python."
       ]
     },
     {
-      "organization": "University of Nottingham Ningbo China",
-      "position": "Independent Research — When Click-to-Cancel Creates Complexity: A Theory of Subscription Regulation",
-      "startDate": "2026-03",
+      "organization": "Independent Research, Chicago, IL",
+      "position": "When Does Plug-in Data Thinning Work? Validity Boundaries, Misspecification and Choose-then-Infer in Econometric Panels",
+      "startDate": "2026-08",
       "endDate": "Present",
       "highlights": [
-        "Developed a partial-equilibrium model of joint cancellation-friction and retention-menu complexity choice; proved a waterbed effect under California's AB 2863.",
-        "Derived the welfare condition under which click-to-cancel regulation benefits consumers."
+        "Derived an asymptotic characterization of dependence induced by plug-in covariance estimation in clustered panels.",
+        "Established sufficient conditions for asymptotically valid post-selection inference based on fixed-dimensional linear aggregates.",
+        "Conducted Monte Carlo experiments (DiD, event-study pretesting, covariate screening) and a county-level minimum-wage placebo application."
       ]
     },
     {
-      "organization": "University of Nottingham Ningbo China",
-      "position": "Undergraduate Dissertation — Causal Machine Learning and Counterfactual Inference in Consumer Behavior",
-      "startDate": "2025-09",
-      "endDate": "2026-04",
+      "organization": "University of Nottingham Ningbo China (supervised by Assoc. Prof. Haibo Xu)",
+      "position": "Co-authored Research — When Click-to-Cancel Creates Complexity: A Theory of Subscription Regulation",
+      "startDate": "2026-04",
+      "endDate": "Present",
       "highlights": [
-        "Applied causal random forests, TMLE, and BART in R and Python to estimate average and heterogeneous treatment effects of coupon and advertising interventions.",
-        "Designed a personalized coupon allocation framework with R Shiny dashboards under budget constraints."
+        "Developed a theoretical model of joint cancellation-friction and retention-menu complexity choice; derived a substitution mechanism.",
+        "Showed the consumer-welfare-maximizing friction cap can be interior; extended the model to friction-induced fatigue and joint regulation."
+      ]
+    },
+    {
+      "organization": "University of Nottingham Ningbo China (supervised by Assoc. Prof. Zhenjiang Lin)",
+      "position": "Dissertation — Causal Machine Learning and Counterfactual Inference in Consumer Behavior",
+      "startDate": "2025-09",
+      "endDate": "2026-05",
+      "highlights": [
+        "12,007 scenario-survey responses across 490 demographic profiles; cross-fitted IPW estimates an 18.3 pp reduction in stated acceptance.",
+        "Separated heterogeneity discovery from confirmation via profile-cluster sample splitting (causal forests, T-learners).",
+        "Effect-based targeting showed 29–42% lower acceptance losses than random allocation."
       ]
     },
     {
       "organization": "Columbia University (RA for Dr. Jiaxi Yang)",
-      "position": "Research Assistant — HTE of Early Childhood Interventions on Fifth-Grade Math Achievement",
+      "position": "Research Assistant — Early Childhood Intervention and Mathematics Achievement",
       "startDate": "2025-03",
       "endDate": "2025-09",
       "highlights": [
-        "Extracted and merged longitudinal ECLS-K:2011 data (n ≈ 18,000) with sample weights and multiple imputation (MICE).",
-        "Trained causal random forests (R grf), identifying an approximately 0.15 SD improvement among high-risk children."
+        "Analyzed baseline differences between special-education and general-education cohorts across six domains.",
+        "Applied causal random forests to heterogeneous effects of special-education services on fifth-grade math achievement.",
+        "Developed interactive dashboards in R Shiny and Python Dash."
       ]
     },
     {
-      "organization": "University of Nottingham (RA for Prof. Abigail Barr)",
-      "position": "Research Assistant — Board Gender Diversity and Firm Performance in the UK",
+      "organization": "University of Nottingham (supervised by Prof. Abigail Barr)",
+      "position": "Team Member — Do Female Directors Improve the Financial Performance of Companies",
       "startDate": "2024-11",
       "endDate": "2025-06",
       "highlights": [
-        "Estimated linear and nonlinear panel models on 840 firm-year observations (2008–2016) using Stata.",
-        "Identified an inverted-U relationship between female director share and Tobin's Q, moderated by firm size; published in Entrepreneurship and Innovation."
+        "Econometric analysis of 840 UK firm-year observations (2008–2016) using Stata (ROA and Tobin's Q).",
+        "Found an inverted-U relationship between female board representation and Tobin's Q, turning point around 20–25%."
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Chicago",
+      "institution": "University of Chicago, Kenneth C. Griffin Department of Economics",
       "area": "Economics",
       "studyType": "M.A.",
       "startDate": "2026-09",
@@ -84,16 +98,16 @@
     },
     {
       "institution": "University of Nottingham Ningbo China",
-      "area": "Economics (dual degree with the University of Nottingham, UK); First-Class Honours; Rank: Top 5%",
+      "area": "Economics, First Class Honours (Top 5%); final mark 79/100; dissertation 84/100",
       "studyType": "B.Sc.",
       "startDate": "2022-09",
       "endDate": "2026-07",
-      "gpa": "3.90/4.0",
+      "gpa": "3.90/4.00 (WES-evaluated)",
       "courses": []
     },
     {
       "institution": "University of Nottingham, UK",
-      "area": "Economics",
+      "area": "Economics (Exchange Program)",
       "studyType": "B.Sc.",
       "startDate": "2024-09",
       "endDate": "2025-01",
@@ -104,7 +118,7 @@
   "skills": [
     {
       "name": "Programming",
-      "keywords": ["Python (pandas, numpy, scikit-learn)", "R (tidyverse, grf, tmle)", "Stata", "SQL", "MATLAB", "LaTeX"]
+      "keywords": ["Python", "R", "Stata", "SQL", "MATLAB", "LaTeX"]
     },
     {
       "name": "Methods",
@@ -115,17 +129,21 @@
   "interests": [],
   "references": [],
   "awards": [
-    { "title": "Provost's Scholarship for Academic Excellence (Top 5%), UNNC", "date": "2025" },
-    { "title": "Zhejiang Provincial Scholarship", "date": "2025-10" },
-    { "title": "UNNC Award for Outstanding Students (UG)", "date": "2026-05" },
-    { "title": "Zhejiang Excellent Graduate", "date": "2026-05" }
+    { "title": "UNNC Provost's Scholarship for Academic Excellence (Top 5%)", "date": "2023–2025" },
+    { "title": "Zhejiang Provincial Scholarship", "date": "2025" },
+    { "title": "UNNC Award for Outstanding Students (UG)", "date": "2026" },
+    { "title": "Zhejiang Excellent Graduates", "date": "2026" },
+    { "title": "Honorable Mention, Mathematical Contest in Modeling (MCM)", "date": "2026" },
+    { "title": "Second Prize, \"Huashu Cup\" International Mathematical Modeling Competition", "date": "2026" },
+    { "title": "Second Prize, National College Student Mathematical Modeling Competition", "date": "2025" },
+    { "title": "Second Prize, \"Huashu Cup\" National Mathematical Modeling Competition", "date": "2025" }
   ],
   "publications": [
     {
-      "name": "Causal Effects of Coupon Expiration on Consumer Acceptance: Evidence from Conditional Heterogeneous Treatment Effects",
-      "publisher": "Submitted to Applied Economics",
-      "releaseDate": "2026",
-      "website": "",
+      "name": "Causal Effects of Coupon Expiration on Consumer Acceptance: Evidence from Heterogeneous Treatment Effects in an Observational Scenario Survey",
+      "publisher": "Applied Economics, 1–20",
+      "releaseDate": "2026-10-22",
+      "website": "https://doi.org/10.1080/00036846.2026.2750980",
       "summary": "Si, X. (2026)."
     },
     {
@@ -143,11 +161,18 @@
       "summary": "Si, X., Lin, K., Yang, X., & Wen, Z. (2025)."
     },
     {
+      "name": "When Does Plug-in Data Thinning Work? Validity Boundaries, Misspecification and Choose-then-Infer in Econometric Panels",
+      "publisher": "Working Paper",
+      "releaseDate": "2026-10",
+      "website": "",
+      "summary": "Si, X. (2026)."
+    },
+    {
       "name": "When Click-to-Cancel Creates Complexity: A Theory of Subscription Regulation",
       "publisher": "Working Paper",
-      "releaseDate": "2026",
+      "releaseDate": "2026-06",
       "website": "",
-      "summary": "Si, X., Fang, C., Xie, W."
+      "summary": "Si, X., Fang, C., Xie, W. (2026)."
     }
   ],
   "presentations": [],

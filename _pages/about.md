@@ -24,9 +24,11 @@ My interests center on estimating **heterogeneous treatment effects** and design
 
 ## Current Projects
 
-- **Correspondence audit studies on labor market discrimination**: research assistant for Prof. Sally Sadoff (UC San Diego) — processing participant-level data from 10,000+ respondents across name-perception studies and tracing the provenance of 600+ fictitious names across 22 correspondence audit studies.
-- **Subscription regulation theory**: independent research on how capping cancellation friction (e.g., California's AB 2863) can create a "waterbed effect" that raises firms' return to retention-menu complexity.
-- **Causal ML for targeting**: estimating individual- and group-level treatment effects and constructing decision rules for allocation (coupon and advertising interventions in consumer behavior).
+- **Correspondence audit studies on labor market discrimination**: research assistant for Prof. Sally Sadoff (Rady School of Management, UC San Diego) — reviewing 22 correspondence audit studies, auditing a 53-sheet database of 600+ fictitious names, and harmonizing eight name-perception studies into a dataset of 1,600+ names and 25 variables.
+- **Plug-in data thinning in econometric panels**: independent research on the validity boundaries of plug-in data thinning — when consistent covariance estimation fails to deliver valid choose-then-infer procedures, with Monte Carlo evidence from DiD, event-study pretesting, and covariate screening.
+- **Subscription regulation theory**: co-authored research (supervised by Assoc. Prof. Haibo Xu) on how capping cancellation friction (e.g., California's AB 2863) can raise firms' return to retention-menu complexity through a substitution mechanism.
+
+**News**: my paper *Causal Effects of Coupon Expiration on Consumer Acceptance* was published in **Applied Economics** (Oct 2026). [Paper](https://doi.org/10.1080/00036846.2026.2750980)
 
 (Details and materials are available in **Publications / CV**.)
 
